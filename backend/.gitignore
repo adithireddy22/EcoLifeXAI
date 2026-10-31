@@ -1,0 +1,50 @@
+venv/
+__pycache__/
+*.py[cod]
+
+.env
+.env.*
+!.env.example
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+node_modules/
+dist/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Frontend-generated files
+node_modules/
+dist/
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+.env
+.env.*
+!.env.example
+__pycache__/
+.venv/
+venv/
